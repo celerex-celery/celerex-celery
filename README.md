@@ -1,4 +1,5 @@
 ## Hi there!
+## Seeing what AI can make in projects.
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,electron,threejs,godot,unreal,unity,rust,java,lua,cs" />
